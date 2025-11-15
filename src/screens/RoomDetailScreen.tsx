@@ -88,7 +88,7 @@ const RoomDetailScreen = () => {
         </TouchableOpacity>
 
         <TouchableOpacity style={styles.actionButton}>
-          <Text style={styles.actionIcon}>📧</Text>
+          <Text style={styles.actionIcon}>📤</Text>
         </TouchableOpacity>
 
         <TouchableOpacity style={styles.actionButton}>
